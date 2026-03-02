@@ -50,3 +50,4 @@ KV_CLEANUP_BATCH = "200"
 [triggers]
 # Every day at 00:00 (Asia/Shanghai => 16:00 UTC)
 crons = ["0 16 * * *"]
+
